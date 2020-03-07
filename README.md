@@ -25,5 +25,5 @@ Coffee Talk is designed to be a social chat site. New users will need to create 
     * sequelize
 
 # Demo Link
-https://elizabethbodzy.github.io/RU420/
+https://coffee-talk-app.herokuapp.com/
 
