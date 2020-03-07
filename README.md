@@ -5,7 +5,7 @@ Coffee Talk is designed to be a social chat site. New users will need to create 
 
 # Screenshots/Live Recording
 
-![](/assets/images/homepage.png)
+![](/public/img/coffee-talk-home.png)
 ![](/assets/images/inner-page.png)
 ![](/assets/images/effects-page.png)
 ![](/assets/images/recording.gif)
