@@ -26,3 +26,4 @@ Coffee Talk is designed to be a social chat site. New users will need to create 
 
 # Demo Link
 https://coffee-talk-app.herokuapp.com/
+
